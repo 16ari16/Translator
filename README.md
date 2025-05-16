@@ -1,7 +1,10 @@
 Технический стек:
 Next.js (современный React-фреймворк)
+
 TypeScript
+
 Tailwind CSS
+
 Radix UI компоненты
 Интеграция с AI для переводов
 Firebase для бэкенда
